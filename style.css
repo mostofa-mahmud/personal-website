@@ -1,0 +1,106 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.sec1{
+    width: 100%;
+    height: 700px;
+}
+.sec2{
+    width: 100%;
+    height: 760px;
+}
+.half-w{
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 5%;
+    width: 40%;
+    float: left;
+}
+.div1{
+    padding-top: 15%;
+}
+.half-w img{
+    width: 100%;
+}
+#bg-image1{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#bg-image-bio{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 40px;
+    color: rgb(199, 20, 20);
+    font-weight: bolder;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, red, cyan);
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.marg{
+    margin-top: 40px;
+}
+.sec3{
+    height: 600px;
+
+}
+#bg-image-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.work-div{
+    width: 25%;
+    float: left;
+    margin-top: 3%;
+}
+.work-div img{
+    width: 100%;
+}
+.margin-w{
+    margin-left: 2%;
+}
+#work{
+    margin-top: 10%;
+    text-align: center;
+}
+#pad-l{
+    margin-left: 10%;
+}
+.client-sec{
+    text-align: center;
+}
+#bg-image-client{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.client-pt{
+    margin-top: 5%;
+
+}
+.client-d{
+    border:.5px solid red;
+    width: 50%;
+    height: 100px;
+    margin-left: 25%;
+    background-image: linear-gradient(45deg, rgb(133, 51, 51), rgb(209, 73, 73));
+    color: white;
+    border-radius: 5px;
+}
